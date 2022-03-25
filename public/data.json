@@ -1,0 +1,56 @@
+[
+    {
+      "id": 1,
+      "image": "https://www.oberlo.com/media/1603897573-image35.jpg?fm=webp&w=1824&fit=max",
+      "price": 260,
+      "name": "The Catcher in the Rye"
+    },
+    {
+      "id": 2,
+      "image": "https://www.oberlo.com/media/1603897575-image29.jpg?fm=webp&w=1824&fit=max",
+      "price": 190,
+      "name": "Wuthering Heights"
+    },
+    {
+      "id": 3,
+      "image": "https://www.oberlo.com/media/1603897566-image40-1.jpg?fm=webp&w=1824&fit=max",
+      "price": 290,
+      "name": "The Book Thief"
+    },
+    {
+      "id": 4,
+      "image": "https://www.oberlo.com/media/1603897587-image7.jpg?fm=webp&w=1824&fit=max",
+      "price": 300,
+      "name": "To Kill a Mockingbird "
+    },
+    {
+      "id": 5,
+      "image": "https://www.oberlo.com/media/1603897587-image5.jpg?fm=webp&w=1824&fit=max",
+      "price": 250,
+      "name": "The Lion, the Witch, and the Wardrobe"
+    },
+    {
+      "id": 6,
+      "image": "https://www.oberlo.com/media/1603897566-image41.jpg?fm=webp&w=1824&fit=max",
+      "price": 340,
+      "name": "Slaughterhouse-Five by Kurt Vonnegut"
+    },
+    {
+      "id": 7,
+      "image": "https://www.oberlo.com/media/1603897577-image22-1.jpg?fm=webp&w=1824&fit=max",
+      "price": 280,
+      "name": "Harry Potter and the Philosopher’s Stone "
+    },
+    {
+      "id": 8,
+      "image": "https://www.oberlo.com/media/1603897583-image17-1.jpg?fm=webp&w=1824&fit=max",
+      "price": 420,
+      "name": "The Kite Runner"
+    },
+    {
+      "id": 9,
+      "image": "https://www.oberlo.com/media/1603897585-image12-1.jpg?fm=webp&w=1824&fit=max",
+      "price": 330,
+      "name": "The Lord of the Rings "
+    }
+  ]
