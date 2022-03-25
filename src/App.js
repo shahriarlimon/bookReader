@@ -3,7 +3,7 @@ import Shop from "./Components/Shop/Shop";
 
 function App() {
   return (
-    <div>
+    <div className="w-full">
       <Header/>
       <Shop/>
     </div>
