@@ -1,4 +1,5 @@
 import Header from "./Components/Header/Header";
+import Question from "./Components/Question/Question";
 import Shop from "./Components/Shop/Shop";
 
 function App() {
@@ -6,6 +7,7 @@ function App() {
     <div className="w-full">
       <Header/>
       <Shop/>
+      <Question/>
     </div>
   );
 }
