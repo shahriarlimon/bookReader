@@ -6,7 +6,7 @@ const Question = () => {
             <div>
                 <h1 className='text-2xl my-3 font-semibold' >How React Works</h1>
                 <p>
-                React is a JavsScript library that creates user interfaces(UIs) in a effecient way by using declarative code.Declarative code is used to create components that are reusable and they build the UI.If there are multiple state changes occur ,React doesn't commit state changes one after another.Rather React creates its virtual DOM .Then creates a list of those changes that need to be made to the actual DOM simply by just comparing to its virtual DOM.Finally react executes the changes in one single process that considers to be highly efficient. 
+                React is a JavsScript library that creates user interfaces(UIs) in a effecient way by using declarative code.Declarative code is used to create components that are reusable and they build the UI.If there are multiple state changes occur ,React doesn't commit state changes one after another.Rather React creates its virtual DOM .Then creates a list of those changes that need to be made to the actual DOM simply by just comparing to its virtual DOM.Finally React executes the changes in one single process that considers to be highly efficient. 
                 </p>
             </div>
             <div className='mt-4'>
